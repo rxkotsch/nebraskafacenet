@@ -199,18 +199,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://www.facebook.com/Discover-Columbus-1026677224051086\" target=\"_blank\" class=\"text-white\">DISCOVER COLUMBUS</a>",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -218,11 +206,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elwood-nebraska-downtown-1-1000x650.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/elwood-nebraska-downtown-1-1000x650-800x520.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.facebook.com/DiscoverElwood\" class=\"text-white\">DISCOVER ELWOOD</a>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dscn1150-eustis-sign.2-1000x650.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscn1150-eustis-sign.2-1000x650-800x519.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://www.facebook.com/Discover-Eustis-583522145134873\" class=\"text-white\">DISCOVER EUSTIS</a>",
                 "active": false
               },
               {
@@ -230,23 +230,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/barnard-park-fremont-img-9388-1000x650.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/barnard-park-fremont-img-9388-1000x650-800x520.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "<a href=\"https://www.facebook.com/Discover-Fremont-1486199481687164\" target=\"_blank\" class=\"text-white\">DISCOVER FREMONT</a>",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/111405078-1000x651.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/111405078-1000x651-800x517.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.facebook.com/DiscoverCozad\" class=\"text-white\">DISCOVER COZAD</a>",
                 "active": false
               }
             ]
