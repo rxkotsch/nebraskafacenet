@@ -343,8 +343,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/040719f9032t011-1-1000x650.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/040719f9032t011-1-1000x650-800x519.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "DISCOVER BELLEVUE",
@@ -355,12 +355,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/011-ext-1962-1000x650.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/011-ext-1962-1000x650-800x519.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "DISCOVER BROKEN BOW",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -684,7 +684,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
